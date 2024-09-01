@@ -125,7 +125,7 @@ bash -c "$(curl -L https://mirrors.chenby.cn/https://raw.githubusercontent.com/A
 最后提示
 ```
 - 安装成功
-- 请使用 afyn 命令 打开脚本
+- 请使用 afyz 命令 打开脚本
 ```
 说明脚本已经安装完成
 **启动脚本**命令为
